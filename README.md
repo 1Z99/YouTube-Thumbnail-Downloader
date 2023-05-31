@@ -14,9 +14,9 @@ The YouTube Thumbnail Downloader enables you to obtain the thumbnail image of an
 4. The thumbnail image will open in a new tab.
 5. Right-click on the image and choose the "Save Image As" option to download it to your device.
 
-## 🌐 Live Demo
+## 🌐 Live
 
-You can try the YouTube Thumbnail Downloader by visiting the live demo at [Demo Link](https://example.com).
+You can try the YouTube Thumbnail Downloader by visiting the live demo at [Link](https://1z99.github.io/t/).
 
 ## 🚀 Technologies Used
 
