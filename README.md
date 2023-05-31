@@ -16,7 +16,7 @@ The YouTube Thumbnail Downloader enables you to obtain the thumbnail image of an
 
 ## 🌐 Live
 
-You can try the YouTube Thumbnail Downloader by visiting the live demo at [Link](https://1z99.github.io/t/).
+You can try the YouTube Thumbnail Downloader by visiting the live demo at [Link](https://1z99.github.io/YouTube-Thumbnail-Downloader/).
 
 ## 🚀 Technologies Used
 
